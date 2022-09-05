@@ -1,0 +1,44 @@
+#container {
+    width: 24%;
+    margin: auto;
+    
+    position: relative;
+    top:80px;
+    text-align: center;
+    
+}
+body {
+    background-color: whitesmoke;
+}
+
+.btn {
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+.input-items {
+    text-align: center;
+    padding: 13px 0;
+}
+
+img {
+    height: 100px;
+}
+
+.top {
+    margin-bottom: -1px;
+    border-bottom-right-radius:0 ;
+    border-bottom-left-radius:0 ;
+}
+
+.middle {
+    border-radius: 0;
+    margin-bottom: -1px;
+}
+
+.bottom {
+   
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+
+}
